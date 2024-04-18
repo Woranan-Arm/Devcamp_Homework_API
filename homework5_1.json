@@ -1,0 +1,52 @@
+[
+{
+    "firstname": "Woranan",
+    "lastname": "Somcum",
+    "age": 22,
+    "gender": "male",
+    "address": {
+        "sub_district": "Minburi"
+        "district"= "Minburi"
+        "province"= "Bangkok"
+    },
+    "contact": {
+        "mobile": "0639487237"
+        "email": "woranan@gmail.com"
+    }
+}
+
+{
+    "firstname": "Paiboon",
+    "lastname": "Panusbordee",
+    "age": 35,
+    "gender": "male",
+    "address": {
+        "sub_district": "Mahasawasd"
+        "district"= "Bangkrew"
+        "province"= "Nonthaburi"
+    },
+    "contact": {
+        "mobile": "0999999999"
+        "email": "paiboonpa@thaiprogrammer.org"
+    }
+}
+
+
+
+
+{
+    "firstname": "Peter",
+    "lastname": "Parker",
+    "age": 17,
+    "gender": "male",
+    "address": {
+        "sub_district": "Chrystie Street"
+        "district"= "Manhattan"
+        "province"= "New York"
+    },
+    "contact": {
+        "mobile": "0999999999"
+        "email": "spiderman@marvel.com"
+    }
+}
+]
